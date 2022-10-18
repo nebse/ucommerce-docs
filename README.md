@@ -1,6 +1,6 @@
-# Ucommerce 10 documentation
+# Ucommerce 10.0.1 documentation
 
-Welcome to the Ucommerce 10 documentation.
+Welcome to the Ucommerce 10.0.1 documentation.
 
 If you encounter any issues or feel that anything is missing, please contact us at [support@ucommerce.net](mailto:support@ucommerce.net)
 
